@@ -1,0 +1,21 @@
+?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+ 
+
+ <item>
+      <title>BALKAN BASIC IPTV</title>
+      <thumbnail>https://s8.postimg.cc/q4zhuv6dx/icon.png</thumbnail>
+      <fanart></fanart>
+   <info>Ex yu kanali</info>
+<link>http://ignoreme</link>
+      <externallink>https://github.com/lostpuppy88/hello-world/blob/master/live.m3u</externallink>
+</item>
+
+<item>
+      <title>[B][COLOR blue]Movies[/COLOR][/B]</title>
+      <thumbnail>https://i.postimg.cc/YC3w0NDS/icon.png/thumbnail>
+      <fanart></fanart>
+   <info>Ex yu kanali</info>
+<link>http://ignoreme</link>
+      <externallink></externallink>
+</item>
