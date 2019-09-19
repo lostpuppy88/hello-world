@@ -7,6 +7,15 @@
       <externallink></externallink>
 </item>
 
+<item>
+      <title>24 Kitchen</title>
+      <thumbnail></thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55200
+</externallink>
+</item>
+
 #EXTM3U
 #EXTINF:-0,[COLOR blue]--DENIS [/COLOR][COLOR silver]Platinum*[/COLOR] IPTV LIST [COLOR lime](Balkan green) --[/COLOR]
 skip
@@ -14,7 +23,6 @@ skip
 skip
 
 #EXTINF:-1,24 Ktichen HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55200
 
 #EXTINF:-1,A1 Ballkan HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55134
