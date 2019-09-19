@@ -1,6 +1,6 @@
 ?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-      <title>[COLOR blue]Balkan Basic IPTV[/COLOR]</title>
+      <title>[COLOR blue]Free Balkan IPTV[/COLOR]</title>
       <thumbnail></thumbnail>
       <fanart></fanart>
       <link>http://ignoreme</link>
@@ -12,13 +12,5 @@
       <thumbnail></thumbnail>
       <fanart></fanart>
       <link>http://ignoreme</link>
-      <externallink>plugin://plugin.video.ProfiMedia/?url=http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1</externallink>
-</item>
-
-<item>
-      <title>[COLOR blue]Balkan Basic IPTV[/COLOR]</title>
-      <thumbnail></thumbnail>
-      <fanart></fanart>
-      <link>http://ignoreme</link>
-      <externallink></externallink>
+      <externallink>http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1</externallink>
 </item>
