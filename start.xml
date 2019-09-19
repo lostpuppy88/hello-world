@@ -1,10 +1,11 @@
 ?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
- 
-
+<items>
  <item>
-      <title>LOST</title>
-      <thumbnail></thumbnail>
-      <fanart></fanart>
-   <info>Ex yu kanali</info>
+      <title>[B][COLOR lime]TV UZIVO[/COLOR][/B]</title>
+      <thumbnail>http://kodi.csadria.org/SLIKE/tv.uzivo.jpg</thumbnail>
+      <fanart>http://kodi.csadria.org/SLIKE/tv.uzivo.jpg</fanart>
+      <link>http://ignoreme</link>
+      <externallink>https://pastebin.com/raw/Ng77Uxrx</externallink>
 </item>
+ </items>
