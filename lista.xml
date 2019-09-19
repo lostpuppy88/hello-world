@@ -35,13 +35,15 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 #EXTINF:-1,CMC
 https://tv.si/ts/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:-1,Prva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Prva;url=http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/26163
-#EXTINF:-1Prva Kick
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Prva Kick;url=
-#EXTINF:-1,Prva Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Prva Max;url=http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/26162
-#EXTINF:-1,Prva Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Prva Plus;url=http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/26161
-#EXTINF:-1,Prva World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Prva World;url=http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/26160
+#EXTINF:-1,Alternativna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Alternativna TV;url=http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/26239
+
+#EXTINF:-1,BHT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BHT 1;url=http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/26238
+
+#EXTINF:-1,BN
+http://tvstream.rtvbn.com:1935/live/stream/playlist.m3u8
+
+#EXTINF:-1,RTRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=RTRS;url=http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/26211
+
