@@ -1,11 +1,8 @@
-#EXTM3U
-#EXTINF:-0,BALKAN BASIC IPTV
-skip
-#EXTINF:-0,[COLOR lime]Addon je besplatan[/COLOR]
-skip
-#EXTINF:-1: [COLOR blue][exyu][/COLOR]RTS 1
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
-#EXTINF:-1,RS: RTS 2
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
-#EXTINF:-1,RS: RTS 3
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
+?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+      <title>hello world from github</title>
+      <thumbnail></thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink></externallink>
+</item>
