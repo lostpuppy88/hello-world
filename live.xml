@@ -12,7 +12,7 @@
       <thumbnail></thumbnail>
       <fanart></fanart>
       <link>http://ignoreme</link>
-      <externallink>http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1</externallink>
+      <externallink>plugin://plugin.video.ProfiMedia/?url=http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1</externallink>
 </item>
 
 <item>
