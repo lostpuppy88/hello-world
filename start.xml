@@ -1,12 +1,882 @@
-?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
- 
 
- <item>
-      <title>BALKAN BASIC IPTV</title>
-      <thumbnail>https://i.postimg.cc/YC3w0NDS/icon.png</thumbnail>
-      <fanart></fanart>
-   <info>Ex yu kanali</info>
-<link>http://ignoreme</link>
-      <externallink>https://github.com/lostpuppy88/hello-world/blob/master/live.xml</externallink>
-</item>
+#EXTM3U
+#EXTINF:-0,[COLOR blue]--DENIS [/COLOR][COLOR silver]Platinum*[/COLOR] IPTV LIST [COLOR lime](Balkan green) --[/COLOR]
+skip
+#EXTINF:-0,[COLOR lime]Addon je besplatan[/COLOR]
+skip
+
+#EXTINF:-1,24 Ktichen HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55200
+
+#EXTINF:-1,A1 Ballkan HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55134
+
+#EXTINF:-1,Al Jazeera Balkan HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55118
+
+#EXTINF:-1,Arena Sport 1 4K  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55117
+
+#EXTINF:-1,Arena Sport 1 4K (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55104
+
+#EXTINF:-1,Arena Sport 1 HD (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55103
+
+#EXTINF:-1,Arena Sport 2 4K (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55102
+
+#EXTINF:-1,Arena Sport 2 HD (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55101
+
+#EXTINF:-1,Arena Sport 3 4K  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55115
+
+#EXTINF:-1,Arena Sport 3 4K (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55100
+
+#EXTINF:-1,Arena Sport 3 HD (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55099
+
+#EXTINF:-1,Arena Sport 4 4K  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55114
+
+#EXTINF:-1,Arena Sport 4 4K (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55098
+
+#EXTINF:-1,Arena Sport 4 HD (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55097
+
+#EXTINF:-1,Arena Sport 5 4K  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55113
+
+#EXTINF:-1,Arena Sport 5 HD  (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55096
+
+#EXTINF:-1,Arena Sport 6 4K  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55112
+
+#EXTINF:-1,ATV HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55182
+
+#EXTINF:-1,AXN .HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55193
+
+#EXTINF:-1,BH: AL JAZEERA BALKAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1829
+
+#EXTINF:-1,BH: B92
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1711
+
+#EXTINF:-1,BH: BALKANIKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1738
+
+#EXTINF:-1,BH: BHT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1717
+
+#EXTINF:-1,BH: BN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1718
+
+#EXTINF:-1,BH: DM SAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1737
+
+#EXTINF:-1,BH: FACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1705
+
+#EXTINF:-1,BH: HAPPY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1710
+
+#EXTINF:-1,BH: HAYAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1700
+
+#EXTINF:-1,BH: HAYAT BIH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1707
+
+#EXTINF:-1,BH: HAYAT FOLK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1703
+
+#EXTINF:-1,BH: HAYAT PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1701
+
+#EXTINF:-1,BH: HAYATA MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1709
+
+#EXTINF:-1,BH: HAYATOVIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1706
+
+#EXTINF:-1,BH: IZVORNA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1740
+
+#EXTINF:-1,BH: KANAL 5 MK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1713
+
+#EXTINF:-1,BH: N1 BOSNA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1075
+
+#EXTINF:-1,BH: NOVI PAZAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1708
+
+#EXTINF:-1,BH: OBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1744
+
+#EXTINF:-1,BH: OTV VALENTINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1743
+
+#EXTINF:-1,BH: PINK BH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1044
+
+#EXTINF:-1,BH: SANDZAK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1704
+
+#EXTINF:-1,BH: TK TUZLA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1742
+
+#EXTINF:-1,BH: TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1741
+
+#EXTINF:-1,BH: TV SARAJEVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1702
+
+#EXTINF:-1,BHT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55180
+
+#EXTINF:-1,BN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55181
+
+#EXTINF:-1,Cinemax 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55195
+
+#EXTINF:-1,Cinemax 2 HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55194
+
+#EXTINF:-1,Cinestar Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55196
+
+#EXTINF:-1,Cinestar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55199
+
+#EXTINF:-1,Cinestar Premiere 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55198
+
+#EXTINF:-1,Cinestar Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55197
+
+#EXTINF:-1,CMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55120
+
+#EXTINF:-1,Discovery  Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55125
+
+#EXTINF:-1,Dm sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/60562
+
+#EXTINF:-1,Doma  TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55227
+
+#EXTINF:-1,E!  Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55128
+
+#EXTINF:-1,Eurosport  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55089
+
+#EXTINF:-1,Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55088
+
+#EXTINF:-1,Ex-Yu: Arena Sport 2 4K  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55116
+
+#EXTINF:-1,EXYU: FOXMOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1035
+
+#EXTINF:-1,EXYU: HBO COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1037
+
+#EXTINF:-1,EXYU: HRT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1030
+
+#EXTINF:-1,EXYU: HRT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1031
+
+#EXTINF:-1,EXYU: HRT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1032
+
+#EXTINF:-1,EXYU: HRT4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1033
+
+#EXTINF:-1,EXYU: NOVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1039
+
+#EXTINF:-1,EXYU: PINK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1040
+
+#EXTINF:-1,EXYU: PINK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1041
+
+#EXTINF:-1,EXYU: PINK 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1042
+
+#EXTINF:-1,EXYU: PINK HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1071
+
+#EXTINF:-1,EXYU: PINK PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1070
+
+#EXTINF:-1,EXYU: PINK PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1069
+
+#EXTINF:-1,EXYU: PINK REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1043
+
+#EXTINF:-1,EXYU: PINK SCI-FI & FANTASY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1068
+
+#EXTINF:-1,EXYU: PINK SOAP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1067
+
+#EXTINF:-1,EXYU: PINK WESTERN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1066
+
+#EXTINF:-1,EXYU: PINK ZABAVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1065
+
+#EXTINF:-1,EXYU: PINKACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1034
+
+#EXTINF:-1,EXYU: PINKPLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1036
+
+#EXTINF:-1,EXYU: PRAVA WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/5617
+
+#EXTINF:-1,EXYU: PRVA MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/5616
+
+#EXTINF:-1,EXYU: PRVA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/5614
+
+#EXTINF:-1,EXYU: RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1064
+
+#EXTINF:-1,EXYU: RTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1063
+
+#EXTINF:-1,EXYU: RTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://dennis-stream.noip.me:8000/CEvstnVYq0/y7SDzIa3hs/1062
+
+#EXTINF:-1,Face HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55188
+
+#EXTINF:-1,Federalna TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55179
+
+#EXTINF:-1,Fight Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55133
+
+#EXTINF:-1,Fox  Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55131
+
+#EXTINF:-1,Fox  Movies HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55129
+
+#EXTINF:-1,FOX .
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55132
+
+#EXTINF:-1,Fox Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55130
+
+#EXTINF:-1,Happy Parovi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55205
+
+#EXTINF:-1,Happy TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55206
+
+#EXTINF:-1,Happy TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55207
+
+#EXTINF:-1,Hayat Folk HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55185
+
+#EXTINF:-1,Hayat Music HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55184
+
+#EXTINF:-1,Hayat Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55186
+
+#EXTINF:-1,Hayat TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55187
+
+#EXTINF:-1,Hayatovic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55183
+
+#EXTINF:-1,HBO 2 HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55224
+
+#EXTINF:-1,HBO 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55223
+
+#EXTINF:-1,HBO HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55225
+
+#EXTINF:-1,History  Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55124
+
+#EXTINF:-1,HRT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55238
+
+#EXTINF:-1,HRT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55237
+
+#EXTINF:-1,HRT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55236
+
+#EXTINF:-1,HRT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55235
+
+#EXTINF:-1,HRT INT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55234
+
+#EXTINF:-1,Izvorna TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55119
+
+#EXTINF:-1,KCN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55123
+
+#EXTINF:-1,KCN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55122
+
+#EXTINF:-1,KCN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55121
+
+#EXTINF:-1,Klasik TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55202
+
+#EXTINF:-1,Love I Ribolov HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55201
+
+#EXTINF:-1,N1 Bih HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55189
+
+#EXTINF:-1,National  Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55126
+
+#EXTINF:-1,Nova HD (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55204
+
+#EXTINF:-1,Nova TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55226
+
+#EXTINF:-1,Novi Pazar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55191
+
+#EXTINF:-1,O2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55203
+
+#EXTINF:-1,OBN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55178
+
+#EXTINF:-1,Pink & Roll
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55135
+
+#EXTINF:-1,Pink 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55175
+
+#EXTINF:-1,Pink 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55174
+
+#EXTINF:-1,Pink 3 Info HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55173
+
+#EXTINF:-1,Pink Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55166
+
+#EXTINF:-1,Pink BH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55171
+
+#EXTINF:-1,Pink Classic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55159
+
+#EXTINF:-1,Pink Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55165
+
+#EXTINF:-1,Pink Crime & Mistery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55155
+
+#EXTINF:-1,Pink Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55144
+
+#EXTINF:-1,Pink Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55156
+
+#EXTINF:-1,Pink Folk 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55150
+
+#EXTINF:-1,Pink Folk 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55149
+
+#EXTINF:-1,Pink Hits 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55146
+
+#EXTINF:-1,Pink Hits 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55145
+
+#EXTINF:-1,Pink Horror HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55160
+
+#EXTINF:-1,Pink Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55153
+
+#EXTINF:-1,Pink Koncert
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55138
+
+#EXTINF:-1,Pink Kuvar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55140
+
+#EXTINF:-1,Pink M HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55172
+
+#EXTINF:-1,Pink Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55158
+
+#EXTINF:-1,Pink Music 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55147
+
+#EXTINF:-1,Pink Music HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55148
+
+#EXTINF:-1,Pink Pedia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55143
+
+#EXTINF:-1,Pink Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55170
+
+#EXTINF:-1,Pink Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55164
+
+#EXTINF:-1,Pink Reality HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55169
+
+#EXTINF:-1,Pink Romance HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55163
+
+#EXTINF:-1,Pink Sci-Fi & Fantasy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55154
+
+#EXTINF:-1,Pink Serije HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55168
+
+#EXTINF:-1,Pink Show
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55137
+
+#EXTINF:-1,Pink Soap HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55167
+
+#EXTINF:-1,Pink Style
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55136
+
+#EXTINF:-1,Pink Thriller HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55161
+
+#EXTINF:-1,Pink Western HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55162
+
+#EXTINF:-1,Pink World Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55142
+
+#EXTINF:-1,Pink World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55141
+
+#EXTINF:-1,Pink Zabava HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55151
+
+#EXTINF:-1,Pink-A1_BALKAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15941
+
+#EXTINF:-1,Pink-AlJazzera_Balkan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15942
+
+#EXTINF:-1,Pink-ANIMAL_PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15943
+
+#EXTINF:-1,Pink-ATLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15944
+
+#EXTINF:-1,Pink-ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15945
+
+#EXTINF:-1,Pink-B92
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15946
+
+#EXTINF:-1,Pink-BANOVINA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15947
+
+#EXTINF:-1,Pink-BHT_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15948
+
+#EXTINF:-1,Pink-BN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15949
+
+#EXTINF:-1,Pink-BN_Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15950
+
+#EXTINF:-1,Pink-BN_MUSIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15951
+
+#EXTINF:-1,Pink-BN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15952
+
+#EXTINF:-1,Pink-BUJRUM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15953
+
+#EXTINF:-1,Pink-Cinemax_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15954
+
+#EXTINF:-1,Pink-Cinemax_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15955
+
+#EXTINF:-1,Pink-CineStar_ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15956
+
+#EXTINF:-1,Pink-CineStar_Premiere_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15957
+
+#EXTINF:-1,Pink-CineStar_Premiere_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15958
+
+#EXTINF:-1,Pink-CMC_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15959
+
+#EXTINF:-1,Pink-DM_Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15960
+
+#EXTINF:-1,Pink-DOMA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15961
+
+#EXTINF:-1,Pink-E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15962
+
+#EXTINF:-1,Pink-EUROSPORT_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15963
+
+#EXTINF:-1,Pink-Face_Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15964
+
+#EXTINF:-1,Pink-Federalna_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15965
+
+#EXTINF:-1,Pink-FIGHT_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15966
+
+#EXTINF:-1,Pink-FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15967
+
+#EXTINF:-1,Pink-FOX_CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15968
+
+#EXTINF:-1,Pink-FOX_LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15969
+
+#EXTINF:-1,Pink-FOX_MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15970
+
+#EXTINF:-1,Pink-FTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15971
+
+#EXTINF:-1,Pink-Grand_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15972
+
+#EXTINF:-1,Pink-HAPPY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15973
+
+#EXTINF:-1,Pink-HAYAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15974
+
+#EXTINF:-1,Pink-Hayat_Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15975
+
+#EXTINF:-1,Pink-Hayatovci
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15976
+
+#EXTINF:-1,Pink-HBO_Adria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15977
+
+#EXTINF:-1,Pink-HBO_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15978
+
+#EXTINF:-1,Pink-HRT_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15979
+
+#EXTINF:-1,Pink-HRT_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15980
+
+#EXTINF:-1,Pink-HRT_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15981
+
+#EXTINF:-1,Pink-HRT_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15982
+
+#EXTINF:-1,Pink-Klasik_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15983
+
+#EXTINF:-1,Pink-Lov_i_Ribolov
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15984
+
+#EXTINF:-1,Pink-MTV_IGMAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15985
+
+#EXTINF:-1,Pink-N1_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15986
+
+#EXTINF:-1,Pink-Nat_Geo_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15987
+
+#EXTINF:-1,Pink-NOVA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15988
+
+#EXTINF:-1,Pink-OBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15989
+
+#EXTINF:-1,Pink-pink_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/9496
+
+#EXTINF:-1,Pink-pink_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/9495
+
+#EXTINF:-1,Pink-pink_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/9494
+
+#EXTINF:-1,Pink-pink_ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/9493
+
+#EXTINF:-1,Pink-pink_BH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/9492
+
+#EXTINF:-1,Pink-pink_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/9491
+
+#EXTINF:-1,Pink-pink_Crime+Mystery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/9490
+
+#EXTINF:-1,Pink-pink_Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/9489
+
+#EXTINF:-1,Pink-pink_FILM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/9488
+
+#EXTINF:-1,Pink-pink_FOLK_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/1620
+
+#EXTINF:-1,Pink-pink_FOLK_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15924
+
+#EXTINF:-1,Pink-pink_HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15925
+
+#EXTINF:-1,Pink-pink_KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15926
+
+#EXTINF:-1,Pink-pink_KUVAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15927
+
+#EXTINF:-1,Pink-pink_M
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15928
+
+#EXTINF:-1,Pink-pink_MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15929
+
+#EXTINF:-1,Pink-pink_MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15930
+
+#EXTINF:-1,Pink-pink_PEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15932
+
+#EXTINF:-1,Pink-pink_PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15931
+
+#EXTINF:-1,Pink-pink_PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15933
+
+#EXTINF:-1,Pink-pink_REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15934
+
+#EXTINF:-1,Pink-pink_SCI-FI+FANTASY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15935
+
+#EXTINF:-1,Pink-pink_SOAP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15936
+
+#EXTINF:-1,Pink-pink_THRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15937
+
+#EXTINF:-1,Pink-pink_WESTERN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15938
+
+#EXTINF:-1,Pink-pink_WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15939
+
+#EXTINF:-1,Pink-pink_ZABAVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15940
+
+#EXTINF:-1,Pink-Prva_Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15990
+
+#EXTINF:-1,Pink-PRVA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15991
+
+#EXTINF:-1,Pink-PTS_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15997
+
+#EXTINF:-1,Pink-PTS_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15998
+
+#EXTINF:-1,Pink-PTS_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15999
+
+#EXTINF:-1,Pink-RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15992
+
+#EXTINF:-1,Pink-RTL_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15993
+
+#EXTINF:-1,Pink-RTL_HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15994
+
+#EXTINF:-1,Pink-RTL_Kockica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15995
+
+#EXTINF:-1,Pink-RTL_Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/15996
+
+#EXTINF:-1,Pink-RTV_ZENICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/16000
+
+#EXTINF:-1,Pink-SPORT_KLUB_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/16001
+
+#EXTINF:-1,Pink-SPORT_KLUB_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/16002
+
+#EXTINF:-1,Pink-SPORT_KLUB_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/16003
+
+#EXTINF:-1,Pink-TV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://20062016.com:8000/123456123456/123456123456/16004
+
+#EXTINF:-1,Posavina TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55222
+
+#EXTINF:-1,Prva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55211
+
+#EXTINF:-1,Prva Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55208
+
+#EXTINF:-1,Prva Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55210
+
+#EXTINF:-1,Prva World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55209
+
+#EXTINF:-1,RTL  Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55228
+
+#EXTINF:-1,RTL 2 HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55232
+
+#EXTINF:-1,RTL HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55233
+
+#EXTINF:-1,RTL Kockica HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55230
+
+#EXTINF:-1,RTL Living HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55231
+
+#EXTINF:-1,RTL Passion HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55229
+
+#EXTINF:-1,RTRS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55215
+
+#EXTINF:-1,RTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55220
+
+#EXTINF:-1,RTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55218
+
+#EXTINF:-1,RTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55217
+
+#EXTINF:-1,RTS Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55216
+
+#EXTINF:-1,RTS Satalliet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55219
+
+#EXTINF:-1,RTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55176
+
+#EXTINF:-1,RTVCG 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55214
+
+#EXTINF:-1,RTVCG 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55213
+
+#EXTINF:-1,RTVCG Sat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55212
+
+#EXTINF:-1,Sandzak TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55192
+
+#EXTINF:-1,Sport Klub 1 HD  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55111
+
+#EXTINF:-1,Sport Klub 1 HD  (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55095
+
+#EXTINF:-1,Sport Klub 2 HD  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55110
+
+#EXTINF:-1,Sport Klub 2 HD  (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55094
+
+#EXTINF:-1,Sport Klub 3 HD  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55109
+
+#EXTINF:-1,Sport Klub 3 HD  (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55093
+
+#EXTINF:-1,Sport Klub 4 HD  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55108
+
+#EXTINF:-1,Sport Klub 4 HD  (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55092
+
+#EXTINF:-1,Sport Klub 5 HD  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55107
+
+#EXTINF:-1,Sport Klub 5 HD  (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55091
+
+#EXTINF:-1,Sport Klub 6 HD  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55106
+
+#EXTINF:-1,Sport Klub 6 HD  (RS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55090
+
+#EXTINF:-1,Sport Klub Golf HD  (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55105
+
+#EXTINF:-1,Super Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55152
+
+#EXTINF:-1,TK Tuzla HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55221
+
+#EXTINF:-1,Tv Duga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55127
+
+#EXTINF:-1,TV Sarajevo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55190
+
+#EXTINF:-1,TV1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR silver]Platinum*[/COLOR] ;url=http://predator-ott.com:8000/DcJjBIjun0/KzsqpWGQbw/55177
