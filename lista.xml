@@ -13,3 +13,10 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 
 #EXTINF:-1, Klasik TV
 https://tv.si/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
+
+#EXTINF:-1, HRT 1
+https://tv.si/LIVE/HRT1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
+
+#EXTINF:-1, HRT 1
+https://tv.si/LIVE/HRT2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
+
