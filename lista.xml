@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,test
-skip 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fNJw2LN/logo-transparent.png", [COLOR skyblue]Free Balkan IPTV[/COLOR]
+skip
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rvrRp3w/RTS-1.png",[COLOR blue]SRB:[/COLOR]RTS 1  
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
@@ -33,19 +33,16 @@ https://tv.si/LIVE/HRT2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nw6BYsr/HRT-3.png", [COLOR blue]HR:[/COLOR]HRT 3
 https://tv.si/LIVE/HRT3/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1, [COLOR blue]HR:[/COLOR]RTL 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cxzTqVn/RTL-HR.png", [COLOR blue]HR:[/COLOR]RTL 
 https://tv.si/ts/RTLHRVATSKA/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1, [COLOR blue]HR:[/COLOR]RTL 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6F9W4f/RTL-2-HR.png", [COLOR blue]HR:[/COLOR]RTL 2
 https://tv.si/ts/RTLHRVATSKA2/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1,[COLOR blue]HR:[/COLOR]Nova TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJy77Sf/Nova-TV.png",[COLOR blue]HR:[/COLOR]Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
-#EXTINF:-1,[COLOR blue]HR:[/COLOR]CMC
-https://tv.si/ts/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:-1,[COLOR blue]BH:[/COLOR]BN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ydx72wr/BN.png",[COLOR blue]BH:[/COLOR]BN
 http://tvstream.rtvbn.com:1935/live/stream/playlist.m3u8
 
 
