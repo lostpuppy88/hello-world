@@ -6,7 +6,7 @@ skip
 #EXTINF:-1,
 skip
 
-#EXTINF:-1,RTS 1
+#EXTINF:-1,RTS 1 tvg-id="RTS 1 HD"
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 
 #EXTINF:-1,RTS 2
