@@ -1,12 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR deepskyblue]Free Balkan IPTV[/COLOR]
-skip
-
-#EXTINF:-1,
-skip
-
-#EXTINF:-1,tvg-id="RTS 1 HD" tvg-name="RTS 1 HD" 
+#EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 
 #EXTINF:-1,RTS 2
