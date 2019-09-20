@@ -42,10 +42,7 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 #EXTINF:-1,[COLOR blue]HR:[/COLOR]CMC
 https://tv.si/ts/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:-1,[COLOR blue]BA:[/COLOR]BN
+#EXTINF:-1,[COLOR blue]BH:[/COLOR]BN
 http://tvstream.rtvbn.com:1935/live/stream/playlist.m3u8
-
-#EXTINF:-1,[COLOR blue]BA:[/COLOR]RTRS
-http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 
 
