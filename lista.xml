@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,test
+skip 
+
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTRS%20Plus.png",[COLOR green]Bosna>[/COLOR]RTRS+
 http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2606430035/grb.png",[COLOR green]Bosna>[/COLOR]BN
