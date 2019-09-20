@@ -1,8 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layouttype>thumbnail</layouttype>
 #EXTM3U
 
 #EXTINF:-1,Free Balkan IPTV by Lost Puppy
 skip
-<fanart>https://cdn.pixabay.com/photo/2016/10/20/18/35/sunrise-1756274_960_720.jpg</fanart>
+
+#EXTINF:-1,
+skip
 
 #EXTINF:-1,RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
