@@ -3,49 +3,49 @@
 #EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 1
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 
-#EXTINF:-1,RTS 2
+#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 2
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 
-#EXTINF:-1,RTS 3
+#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 
-#EXTINF:-1,RTS Svet
+#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS Svet
 https://tv.si/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia
 
-#EXTINF:-1,NOVA S
+#EXTINF:-1,[COLOR blue]SRB:[/COLOR]NOVA S
 http://151.236.240.6:4021/udp/239.0.1.33:1234|User-Agent=Lavf/56.15.10
 
-#EXTINF:-1,PRVA
+#EXTINF:-1,[COLOR blue]SRB:[/COLOR]PRVA
 http://mobilesrbija.gcdn.co/livecacheloworigin/prva.stream/chunklist.m3u8?md5=A9r6XjVuGg9gmyEAyxenKw&expires=1568932886
 
-#EXTINF:-1, Klasik TV
+#EXTINF:-1, [COLOR blue]HR:[/COLOR]Klasik TV
 https://tv.si/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1, HRT 1
+#EXTINF:-1, [COLOR blue]HR:[/COLOR]HRT 1
 https://tv.si/LIVE/HRT1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1, HRT 2
+#EXTINF:-1, [COLOR blue]HR:[/COLOR]HRT 2
 https://tv.si/LIVE/HRT2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1, HRT 3
+#EXTINF:-1, [COLOR blue]HR:[/COLOR]HRT 3
 https://tv.si/LIVE/HRT3/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1, RTL 
+#EXTINF:-1, [COLOR blue]HR:[/COLOR]RTL 
 https://tv.si/ts/RTLHRVATSKA/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1, RTL 2
+#EXTINF:-1, [COLOR blue]HR:[/COLOR]RTL 2
 https://tv.si/ts/RTLHRVATSKA2/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1,Nova TV
+#EXTINF:-1,[COLOR blue]HR:[/COLOR]Nova TV
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
 
-#EXTINF:-1,CMC
+#EXTINF:-1,[COLOR blue]HR:[/COLOR]CMC
 https://tv.si/ts/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:-1,BN
+#EXTINF:-1,[COLOR blue]BA:[/COLOR]BN
 http://tvstream.rtvbn.com:1935/live/stream/playlist.m3u8
 
-#EXTINF:-1,RTRS
+#EXTINF:-1,[COLOR blue]BA:[/COLOR]RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 
 
