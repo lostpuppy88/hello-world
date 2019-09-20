@@ -4,7 +4,7 @@
 iconimage=https://i.ibb.co/rvrRp3w/RTS-1.png;
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rvrRp3w/RTS-1.png",[COLOR blue]SRB:[/COLOR]RTS 1  
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1;iconimage=https://i.ibb.co/rvrRp3w/RTS-1.png&amp;mode=3&quot;
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1;iconimage=https://i.ibb.co/rvrRp3w/RTS-1.png;
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WtQ3NC/RTS-2.png",[COLOR blue]SRB:[/COLOR]RTS 2 
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
