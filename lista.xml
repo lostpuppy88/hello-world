@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 1
+#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 1  tvg-logo="https://epg.serbianforum.org/logo_znaci/NetTV%20Plus/RTS%201.png"
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 
-#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 2
+#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 2 tvg-logo="https://epg.serbianforum.org/logo_znaci/NetTV%20Plus/RTS%202.png"
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 
-#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 3
+#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 3 tvg-logo="https://epg.serbianforum.org/logo_znaci/NetTV%20Plus/RTS%203.png"
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 
 #EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS Svet
