@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layouttype>thumbnail</layouttype>
-
-<item>
-<title>[COLOR deepskyblue]Sportski Tv programi[/COLOR]<title>
-<link>http://ignorame<link><thumbnail>https://bestiptv.site/wp-content/uploads/2016/10/24.jpg</thumbnail>
-<fanart>https://bestiptv.site/wp-content/uploads/2016/10/24.jpg</fanart>
-<externallink>http://cdn.phoenixrebornbuild.com.hr/addons/phoenix_freetv_ADDON/test.txt</externallink>
-<item>
-  
-  
 #EXTM3U
 
-#EXTINF:-1,Free Balkan IPTV by Lost Puppy
+#EXTINF:-1,[COLOR deepskyblue]Free Balkan IPTV[/COLOR] by Lost Puppy
 skip
 
 #EXTINF:-1,
