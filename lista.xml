@@ -6,31 +6,31 @@ skip
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rvrRp3w/RTS-1.png",[COLOR blue]SRB:[/COLOR]RTS 1  
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 
-#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WtQ3NC/RTS-2.png",[COLOR blue]SRB:[/COLOR]RTS 2 
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 
-#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gtgSQkd/RTS-3.png",[COLOR blue]SRB:[/COLOR]RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 
-#EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS Svet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XVWzGT0/RTS-Sat.png",[COLOR blue]SRB:[/COLOR]RTS Svet
 https://tv.si/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia
 
-#EXTINF:-1,[COLOR blue]SRB:[/COLOR]NOVA S
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99xtK2p/Nova-RS.png",[COLOR blue]SRB:[/COLOR]NOVA S
 http://151.236.240.6:4021/udp/239.0.1.33:1234|User-Agent=Lavf/56.15.10
 
-#EXTINF:-1,[COLOR blue]SRB:[/COLOR]PRVA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1T6Gbdj/Prva.png",[COLOR blue]SRB:[/COLOR]PRVA
 http://mobilesrbija.gcdn.co/livecacheloworigin/prva.stream/chunklist.m3u8?md5=A9r6XjVuGg9gmyEAyxenKw&expires=1568932886
 
-#EXTINF:-1, [COLOR blue]HR:[/COLOR]Klasik TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YNTjcfW/Klasik.png", [COLOR blue]HR:[/COLOR]Klasik TV
 https://tv.si/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1, [COLOR blue]HR:[/COLOR]HRT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c6jH0K8/HRT-1.png", [COLOR blue]HR:[/COLOR]HRT 1
 https://tv.si/LIVE/HRT1/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1, [COLOR blue]HR:[/COLOR]HRT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khzTfY4/HRT-2.png", [COLOR blue]HR:[/COLOR]HRT 2
 https://tv.si/LIVE/HRT2/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
-#EXTINF:-1, [COLOR blue]HR:[/COLOR]HRT 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nw6BYsr/HRT-3.png", [COLOR blue]HR:[/COLOR]HRT 3
 https://tv.si/LIVE/HRT3/stream_wifi_1200k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)
 
 #EXTINF:-1, [COLOR blue]HR:[/COLOR]RTL 
