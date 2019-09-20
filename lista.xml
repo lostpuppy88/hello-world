@@ -3,14 +3,7 @@
 #EXTINF:-1,test
 skip 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2606430035/grb.png",[COLOR green]Bosna>[/COLOR]BN
-http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/N1%20HD%20720i.png",[COLOR green]Bosna>[/COLOR]N1
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HRT%204.png",[COLOR green]Bosna>[/COLOR]NOVA 
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt4
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/NetTV%20Plus/Al%20Jazeera.png",[COLOR blue]SRB:[/COLOR]RTS 1  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rvrRp3w/RTS-1.png",[COLOR blue]SRB:[/COLOR]RTS 1  
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
 
 #EXTINF:-1,[COLOR blue]SRB:[/COLOR]RTS 2 
