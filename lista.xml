@@ -9,6 +9,9 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
 #EXTINF:-1,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 
+#EXTINF:-1,RTS Svet
+https://tv.si/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=\"AppleCoreMedia
+
 #EXTINF:-1,NOVA S
 http://151.236.240.6:4021/udp/239.0.1.33:1234|User-Agent=Lavf/56.15.10
 
@@ -44,3 +47,15 @@ https://tv.si/ts/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1,BN
 http://tvstream.rtvbn.com:1935/live/stream/playlist.m3u8
+
+#EXTINF:-1,RTRS
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+
+#EXTINF:1,N1 HR
+http://best.str.n1info.com:8080/stream?channel=n1hr?stream=1mb?u=n1info
+
+#EXTINF:1,N 1 SR
+http://best.str.n1info.com:8080/stream?channel=n1srb?stream=1mb?u=n1info
+
+#EXTINF:1,N 1 BA
+http://best.str.n1info.com:8080/stream?channel=n1bih?stream=1mb?u=n1info
